@@ -1,2 +1,2 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-Someone added a second line to me a while ago. Skippity Bob Bob Bob
+I created this sentence to simulate other people working with me
